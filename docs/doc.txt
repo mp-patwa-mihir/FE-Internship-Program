@@ -1,0 +1,304 @@
+# 3-Month Frontend Development Internship Training Plan
+
+📋 **Overview**
+This comprehensive training plan covers **HTML**, **CSS**, **JavaScript**, and **React.js** over a 3-month period. Each topic includes structured lessons, references (W3Schools, MDN), daily exercises, and mini-projects to reinforce learning.
+
+---
+
+## 🗓️ Month 1: HTML & CSS Fundamentals
+
+### Week 1: HTML Basics
+
+**Day 1–2: HTML Introduction & Structure**
+
+**Topics to Cover:**
+
+* HTML Introduction ([W3Schools](https://www.w3schools.com/html/html_intro.asp))
+* HTML Editors
+* HTML Basic Structure
+* HTML Elements
+* HTML Attributes
+* HTML Headings
+* HTML Paragraphs
+* HTML Styles
+* HTML Text Formatting
+
+**Mini Project 1:** Create a simple **“About Me”** page with headings, paragraphs, and formatted text.
+
+**Day 3–4: HTML Content Elements**
+
+**Topics to Cover:**
+
+* HTML Quotation and Citation Elements
+* HTML Comments
+* HTML Colors
+* HTML Links
+* HTML Images
+* HTML Favicon
+* HTML Tables
+* HTML Lists
+
+**Mini Project 2:** Build a **“Recipe Book”** page with images, lists, and a table of ingredients.
+
+**Day 5: HTML Forms & Input**
+
+**Topics to Cover:**
+
+* HTML Block & Inline
+* HTML Classes & IDs
+* HTML Iframes
+* HTML Forms
+* HTML Form Attributes
+
+**Mini Project 3:** Create a **Feedback Form** with validation and styled inputs.
+
+---
+
+### Week 2: CSS Fundamentals
+
+**Day 1–2: CSS Introduction & Syntax**
+
+* CSS Introduction ([W3Schools](https://www.w3schools.com/css/css_intro.asp))
+* CSS Syntax
+* CSS Selectors
+* CSS Colors
+* CSS Backgrounds
+* CSS Borders
+* CSS Margins & Padding
+
+**Mini Project 4:** Create a **Stylish Resume Page** using CSS.
+
+**Day 3–4: CSS Text & Fonts**
+
+* CSS Text Properties
+* CSS Fonts
+* CSS Icons
+* Google Fonts
+* CSS Links & Lists
+* CSS Display
+
+**Mini Project 5:** Create a **Company Profile Page** with proper typography and spacing.
+
+**Day 5: CSS Box Model & Positioning**
+
+* Box Model Concept
+* CSS Position Property
+* CSS Float & Clear
+* CSS Overflow
+* Z-index
+
+**Mini Project 6:** Create a **Card Layout Page** using CSS positioning.
+
+---
+
+### Week 3: Layouts & Responsive Design
+
+**Day 1–2: Flexbox**
+
+* Flex Container & Items
+* Alignment & Justification
+* Flexbox Layout Examples
+
+**Mini Project 7:** **Photo Gallery Layout** using Flexbox.
+
+**Day 3–4: CSS Grid**
+
+* Grid Container
+* Grid Template Areas
+* Responsive Grids
+
+**Mini Project 8:** **Product Listing Page** using CSS Grid.
+
+**Day 5: Responsive Design**
+
+* Media Queries
+* Mobile-First Design
+* Responsive Units (%, em, rem, vw, vh)
+
+**Mini Project 9:** Convert **Portfolio Page** to be fully responsive.
+
+---
+
+## 🗓️ Month 2: JavaScript Mastery
+
+### Week 4: JavaScript Basics
+
+**Day 1–2:**
+
+* JS Introduction ([W3Schools](https://www.w3schools.com/js/js_intro.asp))
+* Syntax, Variables, Operators
+* Data Types, Functions
+* Conditionals & Loops
+
+**Mini Project 10:** **Calculator App**
+
+**Day 3–4:**
+
+* Arrays & Objects
+* Functions & Scope
+* String & Array Methods
+* ES6 Features (let, const, arrow functions)
+
+**Mini Project 11:** **Tip Calculator**
+
+**Day 5:**
+
+* Debugging with Chrome DevTools
+* Best Coding Practices
+
+---
+
+### Week 5: DOM & Event Handling
+
+**Topics to Cover:**
+
+* DOM Manipulation ([MDN](https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model))
+* Selecting Elements
+* Event Listeners
+* Form Validation
+* Local Storage
+
+**Mini Projects:**
+
+1. **To-Do App** (Add/Delete Tasks)
+2. **Dark Mode Toggle**
+
+---
+
+### Week 6: APIs & Advanced JavaScript
+
+**Topics to Cover:**
+
+* Fetch API & JSON
+* Async/Await
+* Error Handling
+* ES6 Modules
+* API Integration
+
+**Mini Projects:**
+
+1. **Weather App** (OpenWeather API)
+2. **GitHub User Finder** (GitHub API)
+
+---
+
+## 🗓️ Month 3: React Development
+
+### Week 7: React Fundamentals
+
+**Topics to Cover:**
+
+* React Intro ([React Docs](https://react.dev/learn))
+* Components & Props
+* JSX Syntax
+* useState Hook
+
+**Mini Projects:**
+
+1. **Counter App**
+2. **Color Switcher**
+
+---
+
+### Week 8: React Hooks & Routing
+
+**Topics to Cover:**
+
+* useEffect, useReducer, useContext
+* React Router (v6+)
+
+**Mini Projects:**
+
+1. **Movie Search App** (OMDb API)
+2. **Recipe Finder App**
+
+---
+
+### Week 9: Forms, APIs & State Management
+
+**Topics to Cover:**
+
+* Controlled Inputs
+* Context API
+* Fetching APIs
+* Custom Hooks
+
+**Mini Projects:**
+
+1. **User Registration Form** (with Validation)
+2. **Expense Tracker**
+
+---
+
+### Week 10–11: Advanced React & Deployment
+
+**Topics to Cover:**
+
+* UI Libraries (Material UI, Tailwind)
+* Performance Optimization (React.memo, lazy loading)
+* Testing (Jest + React Testing Library)
+* Deployment (Vercel/Netlify)
+
+**Mini Projects:**
+
+1. **Dashboard UI**
+2. **React Portfolio**
+
+---
+
+### Week 12: Capstone Project
+
+**Final Project Ideas:**
+
+* E-commerce Website
+* Blog Application
+* Event Booking Platform
+* Portfolio with Admin Dashboard
+
+**Deliverables:**
+
+* Responsive UI
+* API Integration
+* State Management
+* Deployment Link
+* README & Demo Presentation
+
+---
+
+## ✅ Evaluation
+
+* Weekly Code Review
+* Midterm JS Test
+* Final Project Demo
+
+**Grading:**
+
+* Code Quality: 30%
+* Functionality: 30%
+* UI/UX: 20%
+* Git Usage: 10%
+* Presentation: 10%
+
+---
+
+## 📚 Additional Resources
+
+* [W3Schools](https://www.w3schools.com)
+* [MDN Docs](https://developer.mozilla.org)
+* [JavaScript.info](https://javascript.info)
+* [FreeCodeCamp](https://www.freecodecamp.org)
+* [CSS-Tricks](https://css-tricks.com)
+* [React Docs](https://react.dev)
+* [Netlify](https://www.netlify.com)
+* [Vercel](https://vercel.com)
+* [GitHub](https://github.com)
+
+---
+
+## 🧭 Daily Intern Routine
+
+* **Morning:** Review previous tasks, attend daily stand-up.
+* **Afternoon:** Work on new lessons or mini projects.
+* **Evening:** Commit code to GitHub, reflect & document learnings.
+
+**End of Internship:** Each intern presents their Capstone Project and receives feedback.
